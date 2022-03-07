@@ -1,0 +1,6 @@
+pandas
+torch==1.4.0
+numpy
+skorch
+scikit-learn
+seaborn
